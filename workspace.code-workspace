@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "..\\Học HTML"
+	},
+	{
+		"path": "..\\BaiTapHTML"
+	},
+	{
+		"path": "c:\\Users\\ADMIN\\OneDrive\\Máy tính\\Đồ án cơ sở 1"
+	},
+	{
+		"path": "..\\HTML\\Digital Clock"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "c:\\Users\\ADMIN\\OneDrive\\Máy tính\\Giỏ hàng"
+	},
+	{
+		"path": "..\\Game\\Game Flappy Bird"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Food"
+  }
+}
